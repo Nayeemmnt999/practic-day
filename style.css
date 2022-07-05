@@ -20,14 +20,13 @@ body {
 
 .first-child img {
     width: 90%;
-    margin-left: 0;
 }
 
 #tcolor {
     color: #1f75fe;
 }
 
-#fcp {
+.fcp {
     color: #575757;
     font-size: 20px;
     font-weight: 600px;
@@ -40,7 +39,7 @@ body {
 
 }
 
-#fcl {
+.fcl {
     text-decoration: none;
     font-size: 20px;
     color: white;
@@ -53,5 +52,49 @@ body {
 #fcl:hover {
 
     background-image: linear-gradient(#1dacd6, #1f75fe);
-    transform: scale(none);
+}
+
+.new-add {
+    margin-top: 80px;
+}
+
+.h1s {
+    color: gray;
+}
+
+#second-sec {
+    margin-left: 0px;
+    margin: 0px;
+    padding: 0;
+    width: 100%;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: none;
+    background-size: contain;
+    background-position: left;
+    display: fleax;
+}
+
+.s3f {
+    text-align: center;
+}
+
+.s3r2 {
+    display: flex;
+    padding: 2%;
+    height: 650px;
+}
+
+.s3r2div {
+    padding: 5%;
+    text-align: justify;
+    margin-left: 2%;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.s3r2div img {
+
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
 }
