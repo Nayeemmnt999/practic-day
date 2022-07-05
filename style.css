@@ -98,3 +98,18 @@ body {
     height: 300px;
     border-radius: 20px;
 }
+.main-sub-sec {
+    display: flex;
+    text-align: center;
+}
+
+.main-sub {
+    text-align: center;
+    padding: 10px;
+    margin-left: 17%;
+}
+
+.subh1 {
+    font-size: 50px;
+    font-weight: 900px;
+}
